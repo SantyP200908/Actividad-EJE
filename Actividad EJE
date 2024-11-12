@@ -47,43 +47,52 @@
 
 <section>
     <h2>Strong Passwords</h2>
-    <img src="https://example.com/strong-password.jpg" alt="Strong Password Image">
-    <p>A strong password is made up of at least 16 characters and contains upper and lower case letters, numbers, and symbols. Strong passwords also follow best practices, avoiding personal information, dictionary words, and never being reused across multiple accounts. (Trevino, 2023)</p>
-    <p>Learn more about creating secure passwords on <a href="https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online" target="_blank">NCSC's website</a>.</p>
+    <img src="https://example.com/strong-password.jpg">
+    <p>A strong password is made up of at least 16 characters and contains upper and lower case letters, numbers, and symbols. Strong passwords also follow best practices, avoiding personal information, dictionary words, and never being reused across multiple accounts.</p>
 </section>
 
 <section>
     <h2>Identify Safe and Unsafe Sites</h2>
-    <img src="https://example.com/website-security.jpg" alt="Website Security Image">
+    <img src="https://example.com/website-security.jpg">
     <p>Website owners are responsible for visitor safety, but some websites can spread malware or steal information. Here are three ways to identify a safe site:</p>
     <ul> 
         <li><strong>Look for HTTPS:</strong> Sites with "HTTPS" use encryption. Sites with only "HTTP" may be unsafe.</li>
         <li><strong>Check for a Privacy Policy:</strong> A legitimate site has a clear privacy policy about data handling.</li>
-        <li><strong>Find Contact Information:</strong> Trustworthy sites provide contact info. A survey showed 44% of users avoid sites without it (SiteLock, 2024).</li>
-    </ul>
-    <p>For more information on identifying secure sites, visit <a href="https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams" target="_blank">FTC's Guide</a>.</p>
-</section>
+        <li><strong>Find Contact Information:</strong> Trustworthy sites provide contact info. A survey showed 44% of users avoid sites without it.</li>
+ 	</section>
+
 
 <section>
     <h2>Malicious Software (Malware)</h2>
-    <img src="https://example.com/malware.jpg" alt="Malware Image">
-    <p>Malware is harmful software that infects devices or networks. Its effects can range from minor issues to severe damage, depending on its type and purpose. (Yasar, n.d.)</p>
-    <p>Read more about malware types and protection at <a href="https://us.norton.com/internetsecurity-malware-what-is-malware.html" target="_blank">Norton Security</a>.</p>
-</section>
+    <img src="https://example.com/malware.jpg">
+    <p>Malware is harmful software that infects devices or networks. Its effects can range from minor issues to severe damage, depending on its type and purpose.</p>
+    </section>
+
 
 <section>
     <h2>Cyber Scams</h2>
-    <img src="https://example.com/cyber-scam.jpg" alt="Cyber Scams Image">
-    <p>Cyber scams are crimes where criminals deceive victims to steal money or information. Cybercriminals often impersonate trusted figures, contacting victims via email, social media, or other sites. (Trevino, 2023)</p>
-    <p>Learn more about how to avoid cyber scams at <a href="https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/internet-fraud" target="_blank">FBI's Internet Fraud Page</a>.</p>
-</section>
+    <img src="https://example.com/cyber-scam.jpg">
+    <p>Cyber scams are crimes where criminals deceive victims to steal money or information. Cybercriminals often impersonate trusted figures, contacting victims via email, social media, or other sites.</p>
+    </section>
 
 <section>
     <h2>Phishing</h2>
-    <img src="https://example.com/phishing.jpg" alt="Phishing Image">
-    <p>Phishing is a form of cyber scam where criminals trick victims into providing personal information, often by pretending to be trusted contacts. (Trevino, 2023)</p>
-    <p>Visit <a href="https://www.phishing.org/what-is-phishing" target="_blank">Phishing.org</a> to understand phishing and how to protect yourself.</p>
+    <img src="https://example.com/phishing.jpg">
+    <p>Phishing is a form of cyber scam where criminals trick victims into providing personal information, often by pretending to be trusted contacts.</p>
 </section>
 
+<section>
+	<h2>References</h2>
+    <p>Trevino, A. (2023). What Makes a Strong Password? KEEPER. https://www.keepersecurity.com/blog/2023/08/31/what-makes-a-strong-password/</p>
+    <p>SiteLock. (February 20, 2024). Is This Website Safe? 6 Ways You Can Tell if a Site Is Legit. https://www.sitelock.com/blog/is-this-website-safe/</p>
+    <p>Yasar, K. (n.d). What is malware? Prevention, detection and how attacks work. TechTarget. https://www.techtarget.com/searchsecurity/definition/malware</p>
+    <p>Trevino, A. (2023). The Types of Online Scams. KEEPER. https://www.keepersecurity.com/blog/2023/11/28/the-types-of-online-scams/</p>
+    <p>Proofpoint. (n.d). What Is Phishing? https://www.proofpoint.com/us/threat-reference/phishing</p>
+    <p>FusionAuth. (n.d). Passwords Are History. https://fusionauth.io/password-history</p>
+    <p>The University of Manchester. (2013). History of malware. https://pure.manchester.ac.uk/ws/portalfiles/portal/32297162/FULL_TEXT.PDF</p>
+    
 </body>
 </html>
+
+
+
