@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seguridad en Internet</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>Seguridad en Internet</h1>
+        <p>Consejos y recomendaciones para protegerte en la red</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#que-es-seguridad">¿Qué es la seguridad en Internet?</a></li>
+            <li><a href="#riesgos-comunes">Riesgos comunes</a></li>
+            <li><a href="#consejos">Consejos de seguridad</a></li>
+            <li><a href="#recursos">Recursos útiles</a></li>
+        </ul>
+    </nav>
+
+    <section id="que-es-seguridad">
+        <h2>¿Qué es la seguridad en Internet?</h2>
+        <p>La seguridad en Internet se refiere a las prácticas para proteger la información personal y evitar ser víctima de ataques cibernéticos. Esto incluye el uso de contraseñas fuertes, la navegación segura y la protección contra virus.</p>
+    </section>
+
+    <section id="riesgos-comunes">
+        <h2>Riesgos Comunes</h2>
+        <ul>
+            <li><strong>Phishing:</strong> Intentos de engañar a usuarios para que compartan información personal.</li>
+            <li><strong>Malware:</strong> Software dañino que puede robar o destruir datos.</li>
+            <li><strong>Robo de identidad:</strong> Uso de información personal sin permiso.</li>
+            <li><strong>Suplantación de identidad:</strong> Crear perfiles falsos para engañar a otros.</li>
+        </ul>
+    </section>
+
+    <section id="consejos">
+        <h2>Consejos de Seguridad</h2>
+        <ol>
+            <li>Usa contraseñas seguras y cambia regularmente.</li>
+            <li>Evita conectarte a redes Wi-Fi públicas.</li>
+            <li>Descarga software solo de sitios oficiales.</li>
+            <li>Activa la autenticación de dos factores (2FA).</li>
+            <li>Instala y actualiza software antivirus.</li>
+        </ol>
+    </section>
+
+    <section id="recursos">
+        <h2>Recursos Útiles</h2>
+        <ul>
+            <li><a href="https://www.incibe.es">INCIBE - Instituto Nacional de Ciberseguridad</a></li>
+            <li><a href="https://www.osi.es">Oficina de Seguridad del Internauta</a></li>
+            <li><a href="https://staysafeonline.org">Stay Safe Online</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Seguridad en Internet | Protege tu privacidad en línea</p>
+    </footer>
+</body>
+</html>
